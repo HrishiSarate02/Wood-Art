@@ -1,0 +1,5 @@
+{
+  "name": "Stencil & Woodcut AI Artist",
+  "description": "An AI-powered image editing app that transforms your photos into high-contrast, clean stencils or detailed woodcut-style artwork, perfect for CNC, laser cutting, and artistic projects.",
+  "requestFramePermissions": []
+}
